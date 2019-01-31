@@ -2,11 +2,14 @@ CATS: Convert Audio to Score
 ======
 The purpose of this project is to generate sheet music from audio.
 
+![](https://raw.github.com/aah8/CATS/documentation/images/matlab_spectrogram.png "MATLAB: Spectrogram with note names")
+ 
+  
 ## Completed 
 
 * Take "clean" audio file as input -- generated on computer so all pitches are perfect and there is no background noise. Recognize single notes and output names of those notes.
-  * In MATLAB
-  * In Python
+  * In MATLAB 
+  * In Python 
 * Recognize multiple notes
   * Harmonic removal algorithm
 
