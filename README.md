@@ -1,3 +1,7 @@
+CATS: Convert Audio to Score
+======
+The purpose of this project is to generate sheet music from audio.
+
 ## Completed 
 
 * Take "clean" audio file as input -- generated on computer so all pitches are perfect and there is no background noise. Recognize single notes and output names of those notes.
